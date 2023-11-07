@@ -1,0 +1,53 @@
+.colaborador {
+    background: #a79999;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 25px 25px 15px 15px;
+    color: #4b4e31;
+    font-size: 20px;
+    width: 180px;
+    height: 230px;
+}
+
+.colaborador .cabecalho {
+    background-color:  #ffffff;
+    border-radius: 45px 45px 0px 0px;
+}
+.colaborador img {
+    width: 100px;
+    /* border-radius: 50%; */
+    position: relative;
+    bottom: -10px;
+}
+
+.colaborador .centro {
+    background: #f8f66d;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+    border-color: #000000;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.colaborador .rodape {
+    background: #a5a4a4;
+    border-radius: 0px 0px 15px 15px;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+    padding-bottom: 20px;
+}
+
+.colaborador .rodape h4 {
+    color: #545558;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.colaborador .rodape h5 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}
+.colaborador .rodape h6 {
+    background: #545558;
+}
