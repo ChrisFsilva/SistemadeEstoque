@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+<h1 align="center">REGISTRO DE ESTOQUE - VTAL</h1>			
+<br>
+<h4 align="center">📈 Concluído para estudo 📈</h4>
+	
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Rodando a aplicação](#-Rodando-a-aplicação-Web)
+   * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
+   * [Licença](#-licença)
+<!--te-->
 
-## Available Scripts
 
-In the project directory, you can run:
+## 💻 Sobre o projeto
 
-### `npm start`
+Controle de estoque de notebook basico com organização por armarios
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📋 Pré-requisitos
+De que coisas você precisa para instalar o software e como instalá-lo?
 
-### `npm test`
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Tecnologias
 
-### `npm run build`
+As seguintes tecnologias foram usadas na construção do projeto:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)** 
+-   **[React](https://react.dev)** 
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 🧭 Rodando a aplicação Web
+```bash
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Vercel
+$ [git clone https://github.com/danielrodrigues-dv/alon-musk.git](https://projetos-pessoais-gamma.vercel.app)
 
-### `npm run eject`
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd application
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Instale as dependências
+$ npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🦸🏻‍♂️ Autor
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<a href="https://github.com/ChrisFsilva">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/131322948?v=4" width="50px;" alt=""/>
+ <br>
+  <sub><b><p>GitHub Christopher Silva</p></b></sub></a>
+ <br />
 
-## Learn More
+<a href="https://www.linkedin.com/in/chris-f-silva/">
+  <img style="border-radius:50%;" src="https://media.licdn.com/dms/image/D4D03AQFSlxt8HHTzTQ/profile-displayphoto-shrink_800_800/0/1667337495411?e=1704931200&v=beta&t=rCYv30MKBKgc0PxOmhgcm1GONdWvug6ZguUgnNZygC8" width="50px;" alt="linkedin"/>
+  <br>
+      <sub><b><p>Linkedin Christopher Silva</p></b></sub></a>
+    </br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📝 Licença
 
-### Code Splitting
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+By Christopher Silva
