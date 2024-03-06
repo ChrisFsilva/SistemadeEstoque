@@ -52,8 +52,8 @@ Devido ao conteúdo sensivel presente na codificação, os códigos responsaveis
 #### 🧭 Rodando a aplicação Web
 ```bash
 
-# Clone este repositório
-$ git clone https://github.com/ChrisFsilva/Automacao-Onbord
+# Vercel
+https://sistemade-estoque.vercel.app/
 
 
 
